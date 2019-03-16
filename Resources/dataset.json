@@ -1,0 +1,3672 @@
+[
+ {
+   "NAME": "Fountain location:Aberdeen Park",
+   "ADDRESS": "plaza",
+   "LATITUDE": 49.234947000370624,
+   "LONGITUDE": -123.02725400017576,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Adanac Park",
+   "ADDRESS": "SW side of Field house",
+   "LATITUDE": 49.27585800030125,
+   "LONGITUDE": -123.02414100037845,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Alexandra Park",
+   "ADDRESS": "west plaza gateway",
+   "LATITUDE": 49.285554000393425,
+   "LONGITUDE": -123.14239200036374,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Almond Park",
+   "ADDRESS": "S-side of playground",
+   "LATITUDE": 49.26097999964972,
+   "LONGITUDE": -123.1847589994393,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Andy Livingstone Park - North of basketball court",
+   "ADDRESS": "by amphitheatre steps near bas",
+   "LATITUDE": 49.278810999742035,
+   "LONGITUDE": -123.10619399961962,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Andy Livingstone Park - South of soccer fields",
+   "ADDRESS": "north side of fieldhouse",
+   "LATITUDE": 49.27795099983415,
+   "LONGITUDE": -123.10357499994686,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Arbutus Greenway Park",
+   "ADDRESS": "S-side of playground",
+   "LATITUDE": 49.26212800021286,
+   "LONGITUDE": -123.15531800016394,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Arbutus Village Park",
+   "ADDRESS": "S-side of playground",
+   "LATITUDE": 49.24867899976216,
+   "LONGITUDE": -123.15799099960181,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Art Phillips Park (Discovery Square)",
+   "ADDRESS": "NW plaza",
+   "LATITUDE": 49.285918999908915,
+   "LONGITUDE": -123.12093899986776,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Balaclava Park",
+   "ADDRESS": "W of wading pool",
+   "LATITUDE": 49.245614000377806,
+   "LONGITUDE": -123.17534199964993,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Beaconsfield Park",
+   "ADDRESS": "adjacent to field house",
+   "LATITUDE": 49.25519100015395,
+   "LONGITUDE": -123.0500709995904,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Bobolink Park",
+   "ADDRESS": "in front of wading pool",
+   "LATITUDE": 49.21552100018928,
+   "LONGITUDE": -123.0561070001942,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Brewers Park",
+   "ADDRESS": "S-side of wading pool",
+   "LATITUDE": 49.24745000022819,
+   "LONGITUDE": -123.06622599997259,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Burrard View Park",
+   "ADDRESS": "N-side of wading pool",
+   "LATITUDE": 49.2904150001676,
+   "LONGITUDE": -123.05048299990507,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:CRAB Park at Portside",
+   "ADDRESS": "",
+   "LATITUDE": 49.284653700186325,
+   "LONGITUDE": -123.1018209999941,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Carnarvon Park",
+   "ADDRESS": "S-side of wading pool",
+   "LATITUDE": 49.25692600014427,
+   "LONGITUDE": -123.17251400022238,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Cedar Cottage Park",
+   "ADDRESS": "Near Sport courts",
+   "LATITUDE": 49.26079174592336,
+   "LONGITUDE": -123.07678763972254,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Chaldecott Park",
+   "ADDRESS": "W-side of spray park",
+   "LATITUDE": 49.249585000056356,
+   "LONGITUDE": -123.19168799980883,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Charleson Park",
+   "ADDRESS": "N of school off of seawall",
+   "LATITUDE": 49.26801199998505,
+   "LONGITUDE": -123.12590100051855,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:China Creek North Park",
+   "ADDRESS": "S central side along jogging c",
+   "LATITUDE": 49.26437200035602,
+   "LONGITUDE": -123.08313399984195,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:China Creek South Park",
+   "ADDRESS": "S-side of skate park",
+   "LATITUDE": 49.26164400010508,
+   "LONGITUDE": -123.0790610005805,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Clark Park",
+   "ADDRESS": "",
+   "LATITUDE": 49.256746000057646,
+   "LONGITUDE": -123.07310699983448,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Clinton Park - East side of wading pool",
+   "ADDRESS": "E-side of wading pool",
+   "LATITUDE": 49.27069900042522,
+   "LONGITUDE": -123.0501369996757,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Clinton Park - North side of ball diamond",
+   "ADDRESS": "N-side of B-ball diamond",
+   "LATITUDE": 49.271281000401586,
+   "LONGITUDE": -123.05168600013751,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Coal Harbour Park",
+   "ADDRESS": "near playground",
+   "LATITUDE": 49.289871000327466,
+   "LONGITUDE": -123.1253849998876,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Collingwood Park",
+   "ADDRESS": "in front of wading pool",
+   "LATITUDE": 49.236945999599115,
+   "LONGITUDE": -123.03637999985203,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Columbia Park",
+   "ADDRESS": "in front of wading pool",
+   "LATITUDE": 49.231825000108344,
+   "LONGITUDE": -123.11300500016124,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Connaught Park - East side of fieldhouse",
+   "ADDRESS": "near fieldhouse",
+   "LATITUDE": 49.26286900016458,
+   "LONGITUDE": -123.15933600025812,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Connaught Park - North of playground",
+   "ADDRESS": "",
+   "LATITUDE": 49.2617676000857,
+   "LONGITUDE": -123.16143000002367,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Coopers' Park",
+   "ADDRESS": "",
+   "LATITUDE": 49.27380859987468,
+   "LONGITUDE": -123.1130569998405,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Coopers' Park - underneath bridge, near basket",
+   "ADDRESS": "underneath bridge, near basket",
+   "LATITUDE": 49.27279800014091,
+   "LONGITUDE": -123.11464899973542,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Creekside Park",
+   "ADDRESS": "",
+   "LATITUDE": 49.27426352697906,
+   "LONGITUDE": -123.10300912307929,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:David Lam Park - South west of basketball courts",
+   "ADDRESS": "near playground and tennis court",
+   "LATITUDE": 49.27163200023744,
+   "LONGITUDE": -123.12572000014958,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:David Lam Park - South west of playgrounds",
+   "ADDRESS": "E area, near playground",
+   "LATITUDE": 49.2723940002673,
+   "LONGITUDE": -123.12328900039172,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Devonian Harbour Park",
+   "ADDRESS": "near Stanley Park entrance",
+   "LATITUDE": 49.29498500041713,
+   "LONGITUDE": -123.13600100059149,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Douglas Park (community centre)",
+   "ADDRESS": "exterior of building",
+   "LATITUDE": 49.25193599997942,
+   "LONGITUDE": -123.12250199955442,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Douglas Park - Right side of wading pool",
+   "ADDRESS": "in front of wading pool",
+   "LATITUDE": 49.253088999620594,
+   "LONGITUDE": -123.12231699944704,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Ebisu Park",
+   "ADDRESS": "near playground",
+   "LATITUDE": 49.20540600027789,
+   "LONGITUDE": -123.13284900054522,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Elm Park",
+   "ADDRESS": "N-side of field house",
+   "LATITUDE": 49.23348399966959,
+   "LONGITUDE": -123.16340100003775,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Emery Barnes Park - Dog off-leash area",
+   "ADDRESS": "",
+   "LATITUDE": 49.27699100025627,
+   "LONGITUDE": -123.12379600058522,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Emery Barnes Park - South west of playground",
+   "ADDRESS": "",
+   "LATITUDE": 49.276535899615666,
+   "LONGITUDE": -123.12428199934958,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:English Bay Beach Park - Davie st entrance",
+   "ADDRESS": "Davie st entrance",
+   "LATITUDE": 49.28741899989219,
+   "LONGITUDE": -123.14257300058605,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:English Bay Beach Park - West of bath-house",
+   "ADDRESS": "opposite entrance to bathhouse",
+   "LATITUDE": 49.28602700002652,
+   "LONGITUDE": -123.14303499934894,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:English Bay Beach Park - concessions",
+   "ADDRESS": "concessions",
+   "LATITUDE": 49.278900699683454,
+   "LONGITUDE": -123.13793500005693,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Falaise Park",
+   "ADDRESS": "in front of wading pool",
+   "LATITUDE": 49.25484200008411,
+   "LONGITUDE": -123.02997900038793,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Fraser River Park - South west ",
+   "ADDRESS": "",
+   "LATITUDE": 49.206419999914914,
+   "LONGITUDE": -123.15080800051628,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Fraser River Park - park entrance by Angus Dr",
+   "ADDRESS": "near park entrance by Angus Dr",
+   "LATITUDE": 49.20713000023692,
+   "LONGITUDE": -123.14933699948217,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Fraserview Golf Course - 6th tee",
+   "ADDRESS": "6th tee",
+   "LATITUDE": 49.20821059998459,
+   "LONGITUDE": -123.04569500017553,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Fraserview Golf Course - West of kerr st. ",
+   "ADDRESS": " West of kerr st. ",
+   "LATITUDE": 49.21129620026664,
+   "LONGITUDE": -123.0422830005836,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Fraserview Golf Course - clubhouse building ",
+   "ADDRESS": "clubhouse building ",
+   "LATITUDE": 49.213934699696296,
+   "LONGITUDE": -123.05153300052147,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Fraserview Golf Course - driving range ",
+   "ADDRESS": "driving range ",
+   "LATITUDE": 49.212392099797384,
+   "LONGITUDE": -123.05139500047068,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Garden Park",
+   "ADDRESS": "N-side of field house",
+   "LATITUDE": 49.268388999993135,
+   "LONGITUDE": -123.05842800008391,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Gaston Park",
+   "ADDRESS": "near basketball court",
+   "LATITUDE": 49.23649800017057,
+   "LONGITUDE": -123.03141100062561,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:George Park",
+   "ADDRESS": "southeast corner of park",
+   "LATITUDE": 49.212416999877455,
+   "LONGITUDE": -123.09360199941023,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:George Wainborn Park",
+   "ADDRESS": "NE corner near seawall",
+   "LATITUDE": 49.27180199997684,
+   "LONGITUDE": -123.12979299938699,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Grandview Park - South of playground",
+   "ADDRESS": "By the Playground",
+   "LATITUDE": 49.2737420283587,
+   "LONGITUDE": -123.06986719813167,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Grandview Park - West of Stage",
+   "ADDRESS": "Close to the Stage",
+   "LATITUDE": 49.27357200723494,
+   "LONGITUDE": -123.07081053200004,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Granville Loop Park",
+   "ADDRESS": "",
+   "LATITUDE": 49.26712750023301,
+   "LONGITUDE": -123.13775600002985,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Grays Park",
+   "ADDRESS": "front of wading pool",
+   "LATITUDE": 49.24097700010054,
+   "LONGITUDE": -123.08499400007665,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Guelph Park",
+   "ADDRESS": "w-side of tennis courts",
+   "LATITUDE": 49.264220000239035,
+   "LONGITUDE": -123.09557500018278,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Harbour Green Park - In front of washrooms",
+   "ADDRESS": "near spray pool",
+   "LATITUDE": 49.29000100004927,
+   "LONGITUDE": -123.12169399981823,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Harbour Green Park - Viewpoint",
+   "ADDRESS": "west, by seawall",
+   "LATITUDE": 49.291227999815774,
+   "LONGITUDE": -123.12326999993424,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Harbour Green Park - foot of Jervis Mews",
+   "ADDRESS": "foot of Jervis Mews",
+   "LATITUDE": 49.290538999652725,
+   "LONGITUDE": -123.12318000035684,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Hastings Community Park - SE of tennis courts",
+   "ADDRESS": "besides path leading to spray",
+   "LATITUDE": 49.28036899974586,
+   "LONGITUDE": -123.0406240005083,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Hastings Community Park - South of wading pool",
+   "ADDRESS": "besides wading pool",
+   "LATITUDE": 49.280379000053564,
+   "LONGITUDE": -123.03822100043662,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Hastings Park - Italian gardens",
+   "ADDRESS": "near skate park",
+   "LATITUDE": 49.283143999894286,
+   "LONGITUDE": -123.04295900043991,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Hastings Park -Plateau Sport Parks / Empire Fields",
+   "ADDRESS": "north of empire field",
+   "LATITUDE": 49.28370821779857,
+   "LONGITUDE": -123.0333905745152,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Hastings Park -Plateau Sport Parks / Empire Fields",
+   "ADDRESS": "field house at empire field",
+   "LATITUDE": 49.282562999772665,
+   "LONGITUDE": -123.03426399979688,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Hastings Park -Plateau Sport Parks / Empire Fields",
+   "ADDRESS": "East of playgrounds",
+   "LATITUDE": 49.28289204031265,
+   "LONGITUDE": -123.03450056651774,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Hastings Park -Plateau Sport Parks / Empire Fields",
+   "ADDRESS": "East of basketball courts",
+   "LATITUDE": 49.281735950430246,
+   "LONGITUDE": -123.03438706645156,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Hastings Park -Plateau Sport Parks / Empire Fields",
+   "ADDRESS": "empire field - soccer fields",
+   "LATITUDE": 49.28267651671606,
+   "LONGITUDE": -123.03325847407677,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Hillcrest Park - East side",
+   "ADDRESS": "",
+   "LATITUDE": 49.24566260011774,
+   "LONGITUDE": -123.1069690002218,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Hillcrest Park - North of playground",
+   "ADDRESS": "",
+   "LATITUDE": 49.24454044324713,
+   "LONGITUDE": -123.10637517505889,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Jericho Beach Park",
+   "ADDRESS": "",
+   "LATITUDE": 49.271908399996974,
+   "LONGITUDE": -123.1917359999783,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:John Hendry (Trout Lake) Park",
+   "ADDRESS": "nearby beach",
+   "LATITUDE": 49.25392900016348,
+   "LONGITUDE": -123.06198599965161,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Jonathan Rogers Park",
+   "ADDRESS": "E-side of wading pool",
+   "LATITUDE": 49.264163999882555,
+   "LONGITUDE": -123.10751400050303,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Kaslo Park",
+   "ADDRESS": "SE corner of tennis courts",
+   "LATITUDE": 49.26395399969458,
+   "LONGITUDE": -123.04515200017256,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Kensington Park",
+   "ADDRESS": "between baseball diamond and parking lots",
+   "LATITUDE": 49.23813800027391,
+   "LONGITUDE": -123.07429000045074,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Kerrisdale Centennial Park",
+   "ADDRESS": "2nd N-side entrance",
+   "LATITUDE": 49.23333100002449,
+   "LONGITUDE": -123.15719999942297,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Killarney Park - E 45th Ave. @ Killarney St.",
+   "ADDRESS": "north plaza",
+   "LATITUDE": 49.22919500028523,
+   "LONGITUDE": -123.04534300028303,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Killarney Park - East of wading pool",
+   "ADDRESS": "in front of wading pool",
+   "LATITUDE": 49.22705899996667,
+   "LONGITUDE": -123.04188199942884,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Kingcrest Park",
+   "ADDRESS": "E-side of washroom",
+   "LATITUDE": 49.247325000036675,
+   "LONGITUDE": -123.074579000006,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Kitsilano Beach Park - North of parking lot",
+   "ADDRESS": "besides parking lot",
+   "LATITUDE": 49.27673899960885,
+   "LONGITUDE": -123.15174300055492,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Kitsilano Beach Park - South of playground",
+   "ADDRESS": "besides playground",
+   "LATITUDE": 49.27468145397495,
+   "LONGITUDE": -123.15320141445824,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Kitsilano Beach Park - washroom wall",
+   "ADDRESS": "opposite washrooms",
+   "LATITUDE": 49.2743765959928,
+   "LONGITUDE": -123.15381969188948,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Langara Golf Course - East of tennis courts",
+   "ADDRESS": "56th and Ontario",
+   "LATITUDE": 49.219405699889336,
+   "LONGITUDE": -123.10633499976566,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Langara Golf Course - cambie pathway",
+   "ADDRESS": "cambie pathway",
+   "LATITUDE": 49.22307520002505,
+   "LONGITUDE": -123.11633599947965,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Langara Golf Course - clubhouse building ",
+   "ADDRESS": "clubhouse building ",
+   "LATITUDE": 49.22378509980387,
+   "LONGITUDE": -123.11254299972147,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Langara Golf Course - servive yard",
+   "ADDRESS": "servive yard",
+   "LATITUDE": 49.21816718645776,
+   "LONGITUDE": -123.1117212422927,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Locarno Beach Park",
+   "ADDRESS": "near concessions",
+   "LATITUDE": 49.2749689995763,
+   "LONGITUDE": -123.207164000378,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:MacDonald Park",
+   "ADDRESS": "near NW corner of tennis court",
+   "LATITUDE": 49.22997000019363,
+   "LONGITUDE": -123.09851100034672,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Maclean Park",
+   "ADDRESS": "",
+   "LATITUDE": 49.27884219988731,
+   "LONGITUDE": -123.08944200027229,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Major Matthews Park",
+   "ADDRESS": "",
+   "LATITUDE": 49.2615752999578,
+   "LONGITUDE": -123.1070090000813,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Maple Grove Park - East of pool",
+   "ADDRESS": "E-side of pool",
+   "LATITUDE": 49.223179999985994,
+   "LONGITUDE": -123.15970200034135,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Maple Grove Park - South of baseball diamond",
+   "ADDRESS": "S-side of baseball diamond",
+   "LATITUDE": 49.223507000309354,
+   "LONGITUDE": -123.16083100030363,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Marpole Park",
+   "ADDRESS": "west entrance to playground",
+   "LATITUDE": 49.2056239998101,
+   "LONGITUDE": -123.13895799934221,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:McBride Park",
+   "ADDRESS": "S of playground",
+   "LATITUDE": 49.2679230003196,
+   "LONGITUDE": -123.18013399955696,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:McCleery Golf Course - 5th tee",
+   "ADDRESS": "5th tee",
+   "LATITUDE": 49.22037780024037,
+   "LONGITUDE": -123.17089499945557,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:McCleery Golf Course - clubhouse building ",
+   "ADDRESS": "clubhouse building ",
+   "LATITUDE": 49.220955100377346,
+   "LONGITUDE": -123.16786299954647,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:McCleery Golf Course - driving range ",
+   "ADDRESS": "driving range ",
+   "LATITUDE": 49.220590699627195,
+   "LONGITUDE": -123.16962799989746,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:McCleery Golf Course - servive yard",
+   "ADDRESS": "servive yard",
+   "LATITUDE": 49.220632855952225,
+   "LONGITUDE": -123.17073986300979,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Melbourne Park",
+   "ADDRESS": "front of tennis courts",
+   "LATITUDE": 49.236423999777834,
+   "LONGITUDE": -123.02910700041623,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Memorial South Park - West of Softball Diamond",
+   "ADDRESS": "",
+   "LATITUDE": 49.23152292527961,
+   "LONGITUDE": -123.08477233623469,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Memorial South Park - West of wading pool",
+   "ADDRESS": "W-side of wading pool",
+   "LATITUDE": 49.23134082154831,
+   "LONGITUDE": -123.08692234056105,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Memorial West Park",
+   "ADDRESS": "S of tennis courts",
+   "LATITUDE": 49.243358000329636,
+   "LONGITUDE": -123.18729599965825,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Moberly Park - Arts & Cultural Centre",
+   "ADDRESS": "",
+   "LATITUDE": 49.215338600371474,
+   "LONGITUDE": -123.08719999956745,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Moberly Park - West of tennis courts",
+   "ADDRESS": "in front of tennis courts",
+   "LATITUDE": 49.21482799967276,
+   "LONGITUDE": -123.08459899985863,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Morton Park",
+   "ADDRESS": "",
+   "LATITUDE": 49.28742900016089,
+   "LONGITUDE": -123.14226400043457,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Mosaic Creek Park",
+   "ADDRESS": "near children's play area",
+   "LATITUDE": 49.27319200041664,
+   "LONGITUDE": -123.07421700053888,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Mount Pleasant Park",
+   "ADDRESS": "S-side of wading pool",
+   "LATITUDE": 49.256865000062554,
+   "LONGITUDE": -123.10644599954767,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Nanaimo Park",
+   "ADDRESS": "in front of wading pool",
+   "LATITUDE": 49.228277000295826,
+   "LONGITUDE": -123.05692000041175,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Nelson Park",
+   "ADDRESS": "middle of park",
+   "LATITUDE": 49.2828379999196,
+   "LONGITUDE": -123.12998100054179,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:New Brighton Park - South of pool",
+   "ADDRESS": "S-side of pool",
+   "LATITUDE": 49.28926800008551,
+   "LONGITUDE": -123.03666599994662,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:New Brighton Park - South west of playground",
+   "ADDRESS": "SW of playground",
+   "LATITUDE": 49.28943099962068,
+   "LONGITUDE": -123.03869099995104,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:New Brighton Park - West of tennis courts",
+   "ADDRESS": "W-side of tennis courts",
+   "LATITUDE": 49.28959000010584,
+   "LONGITUDE": -123.03553099955423,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Norquay Park",
+   "ADDRESS": "front of wading pool",
+   "LATITUDE": 49.23817300009612,
+   "LONGITUDE": -123.05082800036878,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Oak Park - East of fieldhouse",
+   "ADDRESS": "East side of fieldhouse",
+   "LATITUDE": 49.21688200014361,
+   "LONGITUDE": -123.12815499962649,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Oak Park - East of spray park",
+   "ADDRESS": "In spray park",
+   "LATITUDE": 49.21658499972665,
+   "LONGITUDE": -123.12738700031365,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Oak Park - North west of field hockey ",
+   "ADDRESS": "Near parking lot",
+   "LATITUDE": 49.21660699987616,
+   "LONGITUDE": -123.12912200024313,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Oppenheimer Park",
+   "ADDRESS": "",
+   "LATITUDE": 49.28290100004385,
+   "LONGITUDE": -123.09405699988892,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Pandora Park",
+   "ADDRESS": "N-side of wading pool",
+   "LATITUDE": 49.28231322090128,
+   "LONGITUDE": -123.05740608356602,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Park Site On South East False Creek",
+   "ADDRESS": "NE side of the park",
+   "LATITUDE": 49.272236414414316,
+   "LONGITUDE": -123.10942862031885,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Park Site On South East False Creek - Hinge",
+   "ADDRESS": "",
+   "LATITUDE": 49.271050700047034,
+   "LONGITUDE": -123.11020599999154,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Pioneer Place (Pigeon Park)",
+   "ADDRESS": "",
+   "LATITUDE": 49.28166289985889,
+   "LONGITUDE": -123.10450500038783,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Queen Elizabeth Park - 37th and Ontario",
+   "ADDRESS": "37th and Ontario",
+   "LATITUDE": 49.23742000021191,
+   "LONGITUDE": -123.10562099982262,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Queen Elizabeth Park - At Conservatory",
+   "ADDRESS": "At Conservatory",
+   "LATITUDE": 49.24227500041179,
+   "LONGITUDE": -123.11354300024337,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Queen Elizabeth Park - Pitch and Putt Course",
+   "ADDRESS": "Pitch and Putt Course",
+   "LATITUDE": 49.239167000399114,
+   "LONGITUDE": -123.11154199967211,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Quilchena Park",
+   "ADDRESS": "W-side of fieldhouse",
+   "LATITUDE": 49.24462000018546,
+   "LONGITUDE": -123.14882800025498,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Renfrew Community Park",
+   "ADDRESS": "adjacent to wading pool",
+   "LATITUDE": 49.25211000010895,
+   "LONGITUDE": -123.04208599977419,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Riley Park",
+   "ADDRESS": "West side of the park",
+   "LATITUDE": 49.242582726230346,
+   "LONGITUDE": -123.10480723091837,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Riverfront Park - East of washrooms",
+   "ADDRESS": "E-side of washrooms",
+   "LATITUDE": 49.20575500038956,
+   "LONGITUDE": -123.0518170006215,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Riverfront Park - West of tennis courts",
+   "ADDRESS": "w-side of tennis courts",
+   "LATITUDE": 49.20573900006739,
+   "LONGITUDE": -123.05098100031859,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Robson Park",
+   "ADDRESS": "N-side of wading pool",
+   "LATITUDE": 49.25779200009227,
+   "LONGITUDE": -123.09191199992672,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Ross Park",
+   "ADDRESS": "in front of wading pool",
+   "LATITUDE": 49.21681100027977,
+   "LONGITUDE": -123.08243400027013,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Ross Park",
+   "ADDRESS": "near shelter",
+   "LATITUDE": 49.216947000199106,
+   "LONGITUDE": -123.08263500004765,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Rupert Park",
+   "ADDRESS": "E-side of playground",
+   "LATITUDE": 49.27112000041364,
+   "LONGITUDE": -123.03307900001431,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Rupert Park - East of fieldhouse",
+   "ADDRESS": "E-side of Field house",
+   "LATITUDE": 49.2701480000744,
+   "LONGITUDE": -123.03062700049837,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Rupert Park - South of golf entrance booth",
+   "ADDRESS": "S-side of golf entrance booth",
+   "LATITUDE": 49.27307100041691,
+   "LONGITUDE": -123.03063599988603,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Seaforth Peace Park",
+   "ADDRESS": "S end plaza",
+   "LATITUDE": 49.27099000023386,
+   "LONGITUDE": -123.14620500005579,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Seawall - Creekside ",
+   "ADDRESS": "Seawall - in front of Creekside Community Recreation Centre",
+   "LATITUDE": 49.272076901776686,
+   "LONGITUDE": -123.10575384543962,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Shannon Mews Park",
+   "ADDRESS": "",
+   "LATITUDE": 49.21959785784679,
+   "LONGITUDE": -123.14149131543664,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Slocan Greenway ",
+   "ADDRESS": "12th and slocan",
+   "LATITUDE": 49.25825427354962,
+   "LONGITUDE": -123.04975100691864,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Slocan Park",
+   "ADDRESS": "near playground",
+   "LATITUDE": 49.24429400021242,
+   "LONGITUDE": -123.04837300036087,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Spanish Banks Beach Park",
+   "ADDRESS": "on north wall of washrooms",
+   "LATITUDE": 49.277483999992995,
+   "LONGITUDE": -123.22239599933741,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Admin building",
+   "ADDRESS": "Park Board Office",
+   "LATITUDE": 49.291033557299464,
+   "LONGITUDE": -123.14537970438057,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Brockton Cricket Pavilion",
+   "ADDRESS": "Brockton Clubhouse",
+   "LATITUDE": 49.299062975159636,
+   "LONGITUDE": -123.1242913570728,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Brockton Oval Fieldhouse",
+   "ADDRESS": "brockton oval",
+   "LATITUDE": 49.299649423788665,
+   "LONGITUDE": -123.12615345416062,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Brockton Point Viewpoint",
+   "ADDRESS": "Brockton point - lighthouse",
+   "LATITUDE": 49.300769032874136,
+   "LONGITUDE": -123.11713104503879,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Ceperley Washrooms",
+   "ADDRESS": "Ceperley washrooms",
+   "LATITUDE": 49.293645306813836,
+   "LONGITUDE": -123.14872158061473,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Dog Off-leash area",
+   "ADDRESS": "Beside Dog off-leash area",
+   "LATITUDE": 49.29252452440499,
+   "LONGITUDE": -123.14467674817227,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Lawn Bowling Club",
+   "ADDRESS": "Lawn Bowling",
+   "LATITUDE": 49.2914730028584,
+   "LONGITUDE": -123.14690444297251,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Legends Of The Moon Washroom",
+   "ADDRESS": "Legends Of The Moon - Washroom",
+   "LATITUDE": 49.29952780458037,
+   "LONGITUDE": -123.12130008963867,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Lumbermen's Arch",
+   "ADDRESS": "Lumbermen's Arch",
+   "LATITUDE": 49.30299999973574,
+   "LONGITUDE": -123.13069500066145,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - North east of Rose and Perennial Ga",
+   "ADDRESS": "",
+   "LATITUDE": 49.2990240023168,
+   "LONGITUDE": -123.13415946958277,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Prospect Point Lookout",
+   "ADDRESS": "Prospect Point viewing",
+   "LATITUDE": 49.313382427142464,
+   "LONGITUDE": -123.14245259955842,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Prospect Point Picnic Site",
+   "ADDRESS": "Prospect Point picnic area",
+   "LATITUDE": 49.31061794303359,
+   "LONGITUDE": -123.14820329978991,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Prospect Point Washrooms",
+   "ADDRESS": "prospect point washrooms",
+   "LATITUDE": 49.31238769327219,
+   "LONGITUDE": -123.14273048631821,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Putting Green",
+   "ADDRESS": "Pitch and Putt Course",
+   "LATITUDE": 49.29300700033055,
+   "LONGITUDE": -123.14648699956994,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Second Beach",
+   "ADDRESS": "Second Beach",
+   "LATITUDE": 49.294878994454855,
+   "LONGITUDE": -123.15002736428059,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Second Beach Pool",
+   "ADDRESS": "Second Beach pool deck",
+   "LATITUDE": 49.295467199852105,
+   "LONGITUDE": -123.15105599962304,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - South west of playground",
+   "ADDRESS": "Rose Garden playground",
+   "LATITUDE": 49.29787034831929,
+   "LONGITUDE": -123.13498637635696,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Stanley Park Pavilion",
+   "ADDRESS": "pavillion outside washrooms",
+   "LATITUDE": 49.29949964070863,
+   "LONGITUDE": -123.13380493597944,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Tennis Courts",
+   "ADDRESS": "near Tennis Courts & Fish House",
+   "LATITUDE": 49.2922196210138,
+   "LONGITUDE": -123.14601249369512,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - Third Beach Seawall",
+   "ADDRESS": "Third beach seawall",
+   "LATITUDE": 49.303155999741705,
+   "LONGITUDE": -123.1563349998711,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - West of Restaurant ",
+   "ADDRESS": "W - side of Fish House",
+   "LATITUDE": 49.292239000347855,
+   "LONGITUDE": -123.1470000001889,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - West of Shore to Shore sculpture",
+   "ADDRESS": "Totem poles",
+   "LATITUDE": 49.298951383635426,
+   "LONGITUDE": -123.12069008873576,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Stanley Park - West side of Stanley Park Train",
+   "ADDRESS": "",
+   "LATITUDE": 49.30156160017026,
+   "LONGITUDE": -123.134528999615,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Strathcona Park - North west of basketball court",
+   "ADDRESS": "besides basketball court",
+   "LATITUDE": 49.27590962147754,
+   "LONGITUDE": -123.08557722574335,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Strathcona Park - besides baseball diamond",
+   "ADDRESS": "besides baseball diamond",
+   "LATITUDE": 49.27482700007923,
+   "LONGITUDE": -123.08668899932765,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Sunrise Park",
+   "ADDRESS": "N-side of wading pool",
+   "LATITUDE": 49.26689300010681,
+   "LONGITUDE": -123.03566900058237,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Sunset Beach ",
+   "ADDRESS": "on building wall ",
+   "LATITUDE": 49.27889599984737,
+   "LONGITUDE": -123.13802000035282,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Sunset Park",
+   "ADDRESS": "front of wading pool",
+   "LATITUDE": 49.22284930128403,
+   "LONGITUDE": -123.09648218733521,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Sutcliffe Park",
+   "ADDRESS": "S-side of false creek communit",
+   "LATITUDE": 49.269120999848695,
+   "LONGITUDE": -123.13403100033241,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Tea Swamp Park",
+   "ADDRESS": "NE corner of park",
+   "LATITUDE": 49.25735599981953,
+   "LONGITUDE": -123.09859000030978,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Tecumseh Park",
+   "ADDRESS": "middle of park",
+   "LATITUDE": 49.229607699639196,
+   "LONGITUDE": -123.07019099979776,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Tisdall Park",
+   "ADDRESS": "near North baseball diamond",
+   "LATITUDE": 49.228371000190236,
+   "LONGITUDE": -123.11826600014085,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Trafalgar Park",
+   "ADDRESS": "E-side of wading pool",
+   "LATITUDE": 49.251273000313404,
+   "LONGITUDE": -123.16383700022139,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Trillium Park",
+   "ADDRESS": "on west side of building ",
+   "LATITUDE": 49.27496030019225,
+   "LONGITUDE": -123.09312199975052,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Vancouver Technical HS",
+   "ADDRESS": "NE of the sport field",
+   "LATITUDE": 49.26051909363116,
+   "LONGITUDE": -123.0501348144715,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Vandusen Botanical Garden",
+   "ADDRESS": "near reflecting pond",
+   "LATITUDE": 49.2394013003317,
+   "LONGITUDE": -123.12943899977927,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Vandusen Botanical Garden - upper gardens",
+   "ADDRESS": "upper gardens",
+   "LATITUDE": 49.23861540012143,
+   "LONGITUDE": -123.12993899936531,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Vanier Park (Burrard Civic Marina)",
+   "ADDRESS": "",
+   "LATITUDE": 49.27511199988763,
+   "LONGITUDE": -123.13976899957511,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Victoria Park",
+   "ADDRESS": "adjacent to children's play area",
+   "LATITUDE": 49.271612967330206,
+   "LONGITUDE": -123.06676228478241,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Victory Square",
+   "ADDRESS": "south corner of park",
+   "LATITUDE": 49.28184500009373,
+   "LONGITUDE": -123.11006600041048,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:W.C. Shelly Park",
+   "ADDRESS": "",
+   "LATITUDE": 49.26304799988696,
+   "LONGITUDE": -123.0731080005829,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:West End minipark",
+   "ADDRESS": "Bute & Haro",
+   "LATITUDE": 49.28518999981312,
+   "LONGITUDE": -123.12804499966994,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:West End minipark - JERVIS ST @ BURNABY ST",
+   "ADDRESS": "north end",
+   "LATITUDE": 49.28198700012729,
+   "LONGITUDE": -123.13605199955896,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:West Point Grey Park - North of wading pool",
+   "ADDRESS": "N-side of wading pool",
+   "LATITUDE": 49.26602100010745,
+   "LONGITUDE": -123.20526199970249,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:West Point Grey Park - lawn bowling court",
+   "ADDRESS": "In lawn bowling court",
+   "LATITUDE": 49.26685360464427,
+   "LONGITUDE": -123.20516120743488,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Winona Park",
+   "ADDRESS": "near playground",
+   "LATITUDE": 49.21583900043167,
+   "LONGITUDE": -123.11305900014426,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Woodland Park",
+   "ADDRESS": "in front of wading pool",
+   "LATITUDE": 49.27844200026797,
+   "LONGITUDE": -123.07342399994342,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Bottle Filling Station location: Charleson Park Pumping Station",
+   "ADDRESS": "North side of sewage pumping station 900 Charleson",
+   "LATITUDE": 49.2663411,
+   "LONGITUDE": -123.125914,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Bottle Filling Station location: Grandview Hwy Pumping Station ",
+   "ADDRESS": "",
+   "LATITUDE": 49.257924,
+   "LONGITUDE": -123.041381,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Bottle Filling Station location: Granville Island Pumping Station",
+   "ADDRESS": "North side of sewage pumping station on seawall east of the granville island entrance",
+   "LATITUDE": 49.269566,
+   "LONGITUDE": -123.136177,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Bottle Filling Station location: Granville St Pumping Station",
+   "ADDRESS": "North side of sewage pumping station under Granville Bridge on bike route",
+   "LATITUDE": 49.2733345,
+   "LONGITUDE": -123.131579,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Bottle Filling Station location: Kitsilano Pumping Station",
+   "ADDRESS": "North side of sewage pumping station on w/s/ 1300 Arbutus",
+   "LATITUDE": 49.2737142,
+   "LONGITUDE": -123.1527806,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Bottle Filling Station location: Thornton Park Pumping Station",
+   "ADDRESS": "West side of sewage pumping station on w/s/ 1200 Station St",
+   "LATITUDE": 49.2730368,
+   "LONGITUDE": -123.098886,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:1650 W 7th",
+   "ADDRESS": "Midblock, outside of 1650 W 7th",
+   "LATITUDE": 49.265329,
+   "LONGITUDE": -123.142081,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:28th & Main",
+   "ADDRESS": "Northeast corner of 28th & Main",
+   "LATITUDE": 49.245762,
+   "LONGITUDE": -123.10102,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:37th & Oak",
+   "ADDRESS": "Southeast corner of 37th & Oak",
+   "LATITUDE": 49.237587,
+   "LONGITUDE": -123.127384,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:37th & Ontario",
+   "ADDRESS": "Northwest corner of 37th & Ontario",
+   "LATITUDE": 49.237446,
+   "LONGITUDE": -123.105647,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:37th & Prince Edward",
+   "ADDRESS": "Northwest corner of 37th & Prince Edward",
+   "LATITUDE": 49.2371952,
+   "LONGITUDE": -123.09728295,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:39th & Nanaimo",
+   "ADDRESS": "Southwest corner of 39th & Nanaimo",
+   "LATITUDE": 49.234752,
+   "LONGITUDE": -123.058912,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:4th & Arbutus",
+   "ADDRESS": "Northeast corner of 4th & Arbutus",
+   "LATITUDE": 49.26822777,
+   "LONGITUDE": -123.152706,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:56th & Ontario",
+   "ADDRESS": "Northwest corner of 56th & Ontario",
+   "LATITUDE": 49.219505,
+   "LONGITUDE": -123.106415,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:7th & Yukon",
+   "ADDRESS": "Southwest corner of 7th & Yukon",
+   "LATITUDE": 49.2646599,
+   "LONGITUDE": -123.112967,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Ashburn & Elliot",
+   "ADDRESS": "Northwest corner of Ashburn & Elliot",
+   "LATITUDE": 49.2187548,
+   "LONGITUDE": -123.055044,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Broadway & Ontario",
+   "ADDRESS": "Southwest corner of Broadway & Ontario",
+   "LATITUDE": 49.262875,
+   "LONGITUDE": -123.105026,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Broadway & Stephens",
+   "ADDRESS": "Northwest corner of Broadway & Stephens",
+   "LATITUDE": 49.26423514,
+   "LONGITUDE": -123.1666474,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Broadway & Victoria",
+   "ADDRESS": "Southeast corner of Broadway & Victoria",
+   "LATITUDE": 49.262066,
+   "LONGITUDE": -123.065619,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Burrard & Davie",
+   "ADDRESS": "Northwest corner of Burrard & Davie",
+   "LATITUDE": 49.2792475453812,
+   "LONGITUDE": -123.12923210062,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Cardero & Burnaby",
+   "ADDRESS": "In the mini park at Cardero & Burnaby",
+   "LATITUDE": 49.28451988,
+   "LONGITUDE": -123.13955439,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Commercial & 3rd",
+   "ADDRESS": "Northeast corner of Commercial & 3rd",
+   "LATITUDE": 49.2678194,
+   "LONGITUDE": -123.06939067,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Comox & Cardero",
+   "ADDRESS": "Northeast corner of Comox & Cardero",
+   "LATITUDE": 49.2867384,
+   "LONGITUDE": -123.136516,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Comox & Chilco",
+   "ADDRESS": "In mini park at Comox & Chilco",
+   "LATITUDE": 49.29067407,
+   "LONGITUDE": -123.14264686,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Comox & Denman",
+   "ADDRESS": "Northwest corner of Comox & Denman",
+   "LATITUDE": 49.2887857,
+   "LONGITUDE": -123.13969,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Denman & Nelson",
+   "ADDRESS": "Southwest corner of Denman & Nelson",
+   "LATITUDE": 49.28922483,
+   "LONGITUDE": -123.13854854,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Elgin & 37th",
+   "ADDRESS": "Northwest corner of Elgin & 37th",
+   "LATITUDE": 49.2365274,
+   "LONGITUDE": -123.084037,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Gilford & Comox",
+   "ADDRESS": "Northwest corner of Gilford & Comox",
+   "LATITUDE": 49.28977703,
+   "LONGITUDE": -123.14128655,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Gilford & Nelson",
+   "ADDRESS": "Northwest corner of Gilford & Nelson",
+   "LATITUDE": 49.29049866,
+   "LONGITUDE": -123.14022516,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Granville & 59th",
+   "ADDRESS": "Northeast corner of Granville & 59th",
+   "LATITUDE": 49.2173117,
+   "LONGITUDE": -123.139586,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Granville & Robson",
+   "ADDRESS": "Northwest corner of Granville & Robson",
+   "LATITUDE": 49.281542,
+   "LONGITUDE": -123.119937,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Hastings & Gore",
+   "ADDRESS": "Northeast corner of Hastings & Gore",
+   "LATITUDE": 49.281386,
+   "LONGITUDE": -123.097231,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Hastings & Kamloops",
+   "ADDRESS": "Northeast corner of Hastings & Kamloops",
+   "LATITUDE": 49.280998,
+   "LONGITUDE": -123.054448,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Main & 11th",
+   "ADDRESS": "Southeast corner of Main & 11th",
+   "LATITUDE": 49.2610594,
+   "LONGITUDE": -123.100784,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Nelson & Broughton",
+   "ADDRESS": "In mini park at Nelson & Broughton",
+   "LATITUDE": 49.28571023,
+   "LONGITUDE": -123.13333675,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Nicola & Beach",
+   "ADDRESS": "Northeast corner of Nicola & Beach",
+   "LATITUDE": 49.282385,
+   "LONGITUDE": -123.140508,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Robson & Burrard",
+   "ADDRESS": "Northeast corner of Robson & Burrard",
+   "LATITUDE": 49.28306599,
+   "LONGITUDE": -123.12229054,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Robson & Chilco",
+   "ADDRESS": "In mini park at Robson & Chilco",
+   "LATITUDE": 49.29345716,
+   "LONGITUDE": -123.13827002,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Union & Hawks",
+   "ADDRESS": "In mini park at Union & Hawks",
+   "LATITUDE": 49.2775724,
+   "LONGITUDE": -123.087389,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location: Cambie & 10th",
+   "ADDRESS": "Northeast corner of Cambie & 10th",
+   "LATITUDE": 49.262294,
+   "LONGITUDE": -123.114544,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location: Davie & Bute (Jim Deva Plaza)",
+   "ADDRESS": "1200 Davie Street",
+   "LATITUDE": 49.281882,
+   "LONGITUDE": -123.133952,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location: Oak & 46th",
+   "ADDRESS": "Northeast corner of Oak & 46th",
+   "LATITUDE": 49.229344,
+   "LONGITUDE": -123.127987,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location: Ormidale St & Vanness Avenue",
+   "ADDRESS": "Southeast corner of Ormidale St & Vanness Avenue",
+   "LATITUDE": 49.234702,
+   "LONGITUDE": -123.024717,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location: Point Grey Road & Waterloo",
+   "ADDRESS": "1600 Waterloo St",
+   "LATITUDE": 49.271936,
+   "LONGITUDE": -123.179475,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location: River District Crossing & E Kent Ave North",
+   "ADDRESS": "Northeast corner of River District Crossing & E Kent Ave North",
+   "LATITUDE": 49.205331,
+   "LONGITUDE": -123.031131,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location: W 63rd Avenue & Yukon Street",
+   "ADDRESS": "Southeast corner of W 63rd Avenue & Yukon Street",
+   "LATITUDE": 49.213173,
+   "LONGITUDE": -123.114629,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Nelson & Howe",
+   "ADDRESS": "Southeast corner of Nelson & Howe",
+   "LATITUDE": 49.279672,
+   "LONGITUDE": -123.123513,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountain location:Pt.Grey & MacDonald",
+   "ADDRESS": "Northwest corner of Pt. Grey & MacDonald",
+   "LATITUDE": 49.271674,
+   "LONGITUDE": -123.167863,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Fountian Location: Fraser & Broadway ",
+   "ADDRESS": "Northwest corner of Fraser & Broadway ",
+   "LATITUDE": 49.262628,
+   "LONGITUDE": -123.089225,
+   "AMENITY_TYPE": "WaterFountain",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1025 Boundary Road",
+   "LATITUDE": 49.2758809678,
+   "LONGITUDE": -123.0240719603,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "89 Expo Boulevard",
+   "LATITUDE": 49.2778209665,
+   "LONGITUDE": -123.1035990223,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "4594 Balaclava Street",
+   "LATITUDE": 49.2452339944,
+   "LONGITUDE": -123.1754609494,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1433 Barclay Street",
+   "LATITUDE": 49.2872148698,
+   "LONGITUDE": -123.1325605109,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "3215 Slocan Street",
+   "LATITUDE": 49.2552329902,
+   "LONGITUDE": -123.0499339593,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2510 Hoylake Avenue",
+   "LATITUDE": 49.2156069867,
+   "LONGITUDE": -123.056414955,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "895 W 27th Avenue",
+   "LATITUDE": 49.2474209947,
+   "LONGITUDE": -123.1244830217,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "4175 Victoria Drive",
+   "LATITUDE": 49.2478549907,
+   "LONGITUDE": -123.0654259491,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "650 North Penticton Street",
+   "LATITUDE": 49.2903639622,
+   "LONGITUDE": -123.0496489708,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "101 E Waterfront Road",
+   "LATITUDE": 49.2845920073,
+   "LONGITUDE": -123.1018350041,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2995 W 19th Avenue",
+   "LATITUDE": 49.2567420169,
+   "LONGITUDE": -123.1726090104,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "4175 Wallace Street",
+   "LATITUDE": 49.2494269601,
+   "LONGITUDE": -123.191124962,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2690 Grant Street",
+   "LATITUDE": 49.2711450329,
+   "LONGITUDE": -123.0497820279,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "5275 McKinnon Street",
+   "LATITUDE": 49.2365299637,
+   "LONGITUDE": -123.0367159607,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "5908 Alberta Street",
+   "LATITUDE": 49.2315229979,
+   "LONGITUDE": -123.112908974,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1300 Pacific Boulevard",
+   "LATITUDE": 49.2723830073,
+   "LONGITUDE": -123.1254150352,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "5800 Elm Street",
+   "LATITUDE": 49.2334319792,
+   "LONGITUDE": -123.1632839446,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1700 Beach Avenue",
+   "LATITUDE": 49.28615404,
+   "LONGITUDE": -123.1428049671,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "3434 Falaise Avenue",
+   "LATITUDE": 49.2551230347,
+   "LONGITUDE": -123.0294059867,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "8705 Angus Drive",
+   "LATITUDE": 49.2073949986,
+   "LONGITUDE": -123.1498560045,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "7800 Vivian Drive",
+   "LATITUDE": 49.2112953518,
+   "LONGITUDE": -123.0422996676,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1851 Garden Drive",
+   "LATITUDE": 49.2682859984,
+   "LONGITUDE": -123.058333994,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "6675 Commercial Street",
+   "LATITUDE": 49.2238700451,
+   "LONGITUDE": -123.0694999785,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1255 Commercial Drive",
+   "LATITUDE": 49.2737616313,
+   "LONGITUDE": -123.0699544464,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "3001 Fir Street",
+   "LATITUDE": 49.2584930115,
+   "LONGITUDE": -123.1419699499,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "4850 St. Catherines Street",
+   "LATITUDE": 49.2407870046,
+   "LONGITUDE": -123.0848870327,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1905 Ogden Avenue",
+   "LATITUDE": 49.2774609931,
+   "LONGITUDE": -123.1503099821,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1199 W Cordova Street",
+   "LATITUDE": 49.2898040141,
+   "LONGITUDE": -123.1214669986,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "3000 E Pender Street",
+   "LATITUDE": 49.2806479708,
+   "LONGITUDE": -123.0378739491,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "3941 Point Grey Road",
+   "LATITUDE": 49.2715800213,
+   "LONGITUDE": -123.1916589596,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "3941 Point Grey Road",
+   "LATITUDE": 49.274427989,
+   "LONGITUDE": -123.2028059987,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "3300 Victoria Drive",
+   "LATITUDE": 49.2539260389,
+   "LONGITUDE": -123.0613879889,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "110 W 7th Avenue",
+   "LATITUDE": 49.2644980299,
+   "LONGITUDE": -123.1076200161,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "5350 Commercial Street",
+   "LATITUDE": 49.236204959,
+   "LONGITUDE": -123.0683280271,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1499 Arbutus Street",
+   "LATITUDE": 49.273014034,
+   "LONGITUDE": -123.1575429676,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1499 Arbutus Street",
+   "LATITUDE": 49.2744719936,
+   "LONGITUDE": -123.1537029747,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "4445 NW Marine Drive",
+   "LATITUDE": 49.2750659923,
+   "LONGITUDE": -123.2065550131,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "710 Keefer Street",
+   "LATITUDE": 49.2790070229,
+   "LONGITUDE": -123.0893660404,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "6875 Yew Street",
+   "LATITUDE": 49.2233840215,
+   "LONGITUDE": -123.1595829747,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "3350 W 4th Avenue",
+   "LATITUDE": 49.2681069665,
+   "LONGITUDE": -123.1801409622,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "5955 Ross Street",
+   "LATITUDE": 49.2307380348,
+   "LONGITUDE": -123.0843880026,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "4701 Dunbar Street",
+   "LATITUDE": 49.2433349852,
+   "LONGITUDE": -123.1884550031,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "7646 Prince Albert Street",
+   "LATITUDE": 49.2152529959,
+   "LONGITUDE": -123.0873549789,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1040 W 43rd Avenue",
+   "LATITUDE": 49.2318260466,
+   "LONGITUDE": -123.1292409865,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2390 E 46th Avenue",
+   "LATITUDE": 49.228241999,
+   "LONGITUDE": -123.057429042,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "3201 New Brighton Road",
+   "LATITUDE": 49.28933397,
+   "LONGITUDE": -123.0360250074,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "3201 New Brighton Road",
+   "LATITUDE": 49.289293,
+   "LONGITUDE": -123.036308,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "5050 Wales Street",
+   "LATITUDE": 49.2379749903,
+   "LONGITUDE": -123.0514249599,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "900 W 59th Avenue",
+   "LATITUDE": 49.2162859951,
+   "LONGITUDE": -123.1276409787,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "400 Powell Street",
+   "LATITUDE": 49.2829379682,
+   "LONGITUDE": -123.0941810354,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2325 Franklin Street",
+   "LATITUDE": 49.2822799987,
+   "LONGITUDE": -123.0574780492,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "3773 Prince Edward Street",
+   "LATITUDE": 49.2511909721,
+   "LONGITUDE": -123.0970569942,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "4600 Cambie Street",
+   "LATITUDE": 49.2389380178,
+   "LONGITUDE": -123.1115770566,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "4600 Cambie Street",
+   "LATITUDE": 49.2421839651,
+   "LONGITUDE": -123.1129190034,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "4600 Cambie Street",
+   "LATITUDE": 49.2422110177,
+   "LONGITUDE": -123.1128449753,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "4590 Magnolia Street",
+   "LATITUDE": 49.2446430483,
+   "LONGITUDE": -123.1487239449,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2750 E Kent Ave S",
+   "LATITUDE": 49.2057680376,
+   "LONGITUDE": -123.0518469707,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "599 Kingsway",
+   "LATITUDE": 49.2586270164,
+   "LONGITUDE": -123.0928489868,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "7402 Ross Street",
+   "LATITUDE": 49.2166999807,
+   "LONGITUDE": -123.082798035,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1600 Rupert Street",
+   "LATITUDE": 49.2701350042,
+   "LONGITUDE": -123.0306049796,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1600 Rupert Street",
+   "LATITUDE": 49.2730500016,
+   "LONGITUDE": -123.0306829593,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2750 E 29th Avenue",
+   "LATITUDE": 49.2444379784,
+   "LONGITUDE": -123.0479520172,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "4801 NW Marine Drive",
+   "LATITUDE": 49.277471986,
+   "LONGITUDE": -123.2226790554,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "4801 NW Marine Drive",
+   "LATITUDE": 49.2762439755,
+   "LONGITUDE": -123.2149200375,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.3020690032,
+   "LONGITUDE": -123.1329230422,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.2908669672,
+   "LONGITUDE": -123.1453549644,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.2956269926,
+   "LONGITUDE": -123.1507330006,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.303152992,
+   "LONGITUDE": -123.1559310487,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.299867996,
+   "LONGITUDE": -123.1307000049,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.2996259646,
+   "LONGITUDE": -123.1260230026,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.2936169901,
+   "LONGITUDE": -123.1487149567,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.2939220383,
+   "LONGITUDE": -123.1385910294,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.2922930216,
+   "LONGITUDE": -123.1465800409,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.2977530147,
+   "LONGITUDE": -123.1314329661,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.3029259847,
+   "LONGITUDE": -123.130707979,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.2995490315,
+   "LONGITUDE": -123.1340510161,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.2930350373,
+   "LONGITUDE": -123.1465990248,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.3124120321,
+   "LONGITUDE": -123.1426499893,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.3105500284,
+   "LONGITUDE": -123.1483880399,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2000 W Georgia Street",
+   "LATITUDE": 49.2994400235,
+   "LONGITUDE": -123.1212780196,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "857 Malkin Avenue",
+   "LATITUDE": 49.2745570066,
+   "LONGITUDE": -123.0861889918,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1950 Windermere Street",
+   "LATITUDE": 49.2669229919,
+   "LONGITUDE": -123.0360179825,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1204 Beach Avenue",
+   "LATITUDE": 49.2788370148,
+   "LONGITUDE": -123.1379500435,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2845 W 3rd Avenue",
+   "LATITUDE": 49.2694760118,
+   "LONGITUDE": -123.1695119497,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2610 W 23rd Avenue",
+   "LATITUDE": 49.2515549664,
+   "LONGITUDE": -123.1634719734,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "600 National Avenue",
+   "LATITUDE": 49.2748,
+   "LONGITUDE": -123.0929110423,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "5251 Oak Street",
+   "LATITUDE": 49.2385104499,
+   "LONGITUDE": -123.1286383402,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "5251 Oak Street",
+   "LATITUDE": 49.2386594327,
+   "LONGITUDE": -123.1295576458,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1000 Chestnut Street",
+   "LATITUDE": 49.2751960118,
+   "LONGITUDE": -123.1398559437,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "1425 Victoria Drive",
+   "LATITUDE": 49.2717440428,
+   "LONGITUDE": -123.0674130165,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "2250 Trimble Street",
+   "LATITUDE": 49.2665415434,
+   "LONGITUDE": -123.2045795644,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "7575 Columbia Street",
+   "LATITUDE": 49.2157179804,
+   "LONGITUDE": -123.1129489453,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "Main at Hastings SW corner of intersection",
+   "LATITUDE": 49.281107,
+   "LONGITUDE": -123.09985,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "705 Woodland Drive",
+   "LATITUDE": 49.2783689722,
+   "LONGITUDE": -123.0732200047,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "Victory Square",
+   "LATITUDE": 49.2825906,
+   "LONGITUDE": -123.110132,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "Bute at Davie NE corner of intersection",
+   "LATITUDE": 49.2818541,
+   "LONGITUDE": -123.133141,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "Hastings at Carral - Pigeon Park NW corner of intersection",
+   "LATITUDE": 49.2816384,
+   "LONGITUDE": -123.104602,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "Main at Terminal NE corner of intersection",
+   "LATITUDE": 49.2731387,
+   "LONGITUDE": -123.099778,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "Nelson Park West side of park",
+   "LATITUDE": 49.283378,
+   "LONGITUDE": -123.130677,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "Nelson at Howe NE corner of intersection",
+   "LATITUDE": 49.2796964,
+   "LONGITUDE": -123.123516,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "Powell at Main NW corner of intersection",
+   "LATITUDE": 49.2832763,
+   "LONGITUDE": -123.099849,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "Richards at Davie - Emery Barnes Park NW corner of intersection",
+   "LATITUDE": 49.2760544,
+   "LONGITUDE": -123.124114,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "Robson at Granville NW corner of intersection",
+   "LATITUDE": 49.2816325,
+   "LONGITUDE": -123.120082,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "Robson at Richards NW corner of intersection",
+   "LATITUDE": 49.2803243,
+   "LONGITUDE": -123.118054,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": null,
+   "ADDRESS": "Vancouver Art Gallary NE Side of VAG Building",
+   "LATITUDE": 49.282961,
+   "LONGITUDE": -123.119864,
+   "AMENITY_TYPE": "PublicWashroom",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Triage",
+   "ADDRESS": "707 Powell St",
+   "LATITUDE": 49.2832570142586,
+   "LONGITUDE": -123.089140653353,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-254-3700",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Tenth Avenue Church",
+   "ADDRESS": "11 W 10th Ave",
+   "LATITUDE": 49.2623383061239,
+   "LONGITUDE": -123.105860462078,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-876-2181",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Union Gospel Mission",
+   "ADDRESS": "601 E Hastings St",
+   "LATITUDE": 49.2818717041335,
+   "LONGITUDE": -123.090986046798,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-253-3323",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Catholic Charities Men's Hostel",
+   "ADDRESS": "828 Cambie St",
+   "LATITUDE": 49.2777650064068,
+   "LONGITUDE": -123.114913417258,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-443-3292",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Belkin House",
+   "ADDRESS": "555 Homer St",
+   "LATITUDE": 49.2824583823588,
+   "LONGITUDE": -123.112939685345,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-681-3405",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Grandview Calvary Baptist Church",
+   "ADDRESS": "1803 E 1st Ave",
+   "LATITUDE": 49.2697474520736,
+   "LONGITUDE": -123.067356357987,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-255-1411",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "First Baptist Church",
+   "ADDRESS": "969 Burrard St",
+   "LATITUDE": 49.2818511556925,
+   "LONGITUDE": -123.126458247518,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-683-8441",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Dusk to Dawn-Directions Youth Centre",
+   "ADDRESS": "1138 Burrard St",
+   "LATITUDE": 49.2795671693397,
+   "LONGITUDE": -123.127792927078,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-633-1472",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "New Fountain",
+   "ADDRESS": "356 E Hastings St",
+   "LATITUDE": 49.2828738118386,
+   "LONGITUDE": -123.105225398756,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-331-1246",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Anchor of Hope",
+   "ADDRESS": "134 E Cordova St",
+   "LATITUDE": 49.2821327941377,
+   "LONGITUDE": -123.101324923635,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-646-6899",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Crosswalk",
+   "ADDRESS": "119 E Cordova St",
+   "LATITUDE": 49.2818050804002,
+   "LONGITUDE": -123.107672478832,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-669-4349",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Aboriginal Shelter",
+   "ADDRESS": "201 Central St",
+   "LATITUDE": 49.2715743534663,
+   "LONGITUDE": -123.099346861579,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-347-0299",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Covenant House",
+   "ADDRESS": "575 Drake St",
+   "LATITUDE": 49.2754042223039,
+   "LONGITUDE": -123.126322529911,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-685-7474",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "The Haven",
+   "ADDRESS": "52 E Cordova St",
+   "LATITUDE": 49.2821349512488,
+   "LONGITUDE": -123.101429426307,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-646-6800",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "The Beacon",
+   "ADDRESS": "7 W Hastings St",
+   "LATITUDE": 49.2820397545483,
+   "LONGITUDE": -123.100913161934,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-646-6846",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Vineyard Church",
+   "ADDRESS": "2475 Franklin St",
+   "LATITUDE": 49.2693356609832,
+   "LONGITUDE": -123.070551901448,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-255-4463",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Lookout Downtown",
+   "ADDRESS": "2475 Franklin St",
+   "LATITUDE": 49.2837440886413,
+   "LONGITUDE": -123.096207657871,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-681-9126",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "First United Church",
+   "ADDRESS": "320 East Hastings Street",
+   "LATITUDE": 49.2809665379675,
+   "LONGITUDE": -123.097065334772,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-681-8365",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Yukon Shelter",
+   "ADDRESS": "2088 Yukon St",
+   "LATITUDE": 49.2668908859729,
+   "LONGITUDE": -123.11236726194,
+   "AMENITY_TYPE": "Shelter",
+   "PHONE_NUMBER": "604-264-1680",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Insite",
+   "ADDRESS": "139 East Hastings Street",
+   "LATITUDE": 49.28126,
+   "LONGITUDE": -123.07831,
+   "AMENITY_TYPE": "InjectionSite",
+   "PHONE_NUMBER": "604-687-7483",
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Pop-Up Injection Site",
+   "ADDRESS": "Cordova & Carrall",
+   "LATITUDE": 49.282485,
+   "LONGITUDE": -123.104307,
+   "AMENITY_TYPE": "InjectionSite",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Outdoor",
+   "COUNTER": 0
+ },
+ {
+   "NAME": "Overdose Prevention Society",
+   "ADDRESS": "58 East Hastings ",
+   "LATITUDE": 49.28134,
+   "LONGITUDE": -123.1029,
+   "AMENITY_TYPE": "InjectionSite",
+   "PHONE_NUMBER": null,
+   "ENVIRONMENT": "Indoor",
+   "COUNTER": 0
+ }
+]
