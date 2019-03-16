@@ -27,7 +27,7 @@
   function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
       center: {lat: 49.2840, lng: -123.0919},
-      zoom: 12
+      zoom: 11.5
     });
 
     var contentString = '<div id="content">'+
@@ -60,10 +60,13 @@
       position: {lat: 49.2840, lng: -123.0919},
       map: map,
       title: 'Hello World!',
-      icon: image
+      icon: image,
+      count: 0
     });
     marker.addListener('click', function() {
       infowindow.open(map, marker);
+      marker.count += 1
+      console.log(marker.count)
     });
   }
 
