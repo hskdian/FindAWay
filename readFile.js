@@ -14,3 +14,17 @@ function Entry (obj) {
     this.ENVIRONMENT = obj.ENVIRONMENT ;
     this.COUNTER = obj.COUNTER;
 }
+
+
+var obj = {
+        "NAME": "Fountain location:Aberdeen Park",
+        "ADDRESS": "plaza",
+        "LATITUDE": 49.234947000370624,
+        "LONGITUDE": -123.02725400017576,
+        "AMENITY_TYPE": "WaterFountain",
+        "PHONE_NUMBER": null,
+        "ENVIRONMENT": "Outdoor",
+        "COUNTER": 0
+    };
+
+var result = new Entry (obj);
