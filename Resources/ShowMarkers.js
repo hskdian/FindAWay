@@ -5,3 +5,12 @@ function showMarkers(listMarkers, typeMarker) {
         }
     }
 }
+
+function hideMarkers(amenityType, markerArr) {
+    for (var i = 0; i < markerArr.length; i++) {
+        var marker = markerArr[i];
+        if (marker.AMENITY_TYPE === amenityType) {
+            marker.setVisible(false); // maps API hide call
+        }
+    }
+}
