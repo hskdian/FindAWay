@@ -27,32 +27,31 @@
 </head>
 <body>
 
-<nav class="navbar navbar-inverse">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <a class="navbar-brand" href="#">Find A Way</a>
-        </div>
-    </div>
-</nav>
-
-
-<div class="container-fluid">
-    <div class="row">
-        <nav class="col-md-2 d-none d-md-block bg-light sidebar">
-            <div class="sidebar-sticky">
-                <ul class="nav flex-column">
-                    <span class="navheading">I want to find...</span>
-                    <li class="nav-item">Drinking Water</li>
-                    <li class="nav-item">Public Washrooms</li>
-                    <li class="nav-item">Emergency Clinics</li>
-                    <li class="nav-item">Shelters</li>
-                </ul>
-            </div>
-        </nav>
-        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4">
-            stuff goes here
-        </main>
-    </div>
+<div class="sidenav">
+    <div class="siteheading">Find A Way</div>
+    <span class="navheading">I want to find...</span>
+        <ul class="amenlist">
+            <li class="amenitem">Drinking Water</li>
+            <li class="amenitem">Public Washrooms</li>
+            <li class="amenitem">Emergency Clinics</li>
+            <li class="amenitem">Shelters</li>
+        </ul>
 </div>
+
+<div style="width:100%; height:100%;">
+    <div id="map" style="width:100%;height:100%;"></div>
+</div>
+<script>
+    var map;
+
+    function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+            center: {lat: -34.397, lng: 150.644},
+            zoom: 8
+        });
+    }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKnPQGv7Cf1UhviyDRkrSyFS8vyqIaaH0&callback=initMap"
+        async defer></script>
 </body>
 </html>
