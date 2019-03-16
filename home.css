@@ -1,4 +1,7 @@
+body {
 
+    font-family: 'Lato', sans-serif;
+}
 
 .sidenav {
     height: 100%;
@@ -7,9 +10,10 @@
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: whitesmoke;
+    background-color: #FFFFFF;
     overflow-x: hidden;
     padding-top: 20px;
+    border-right: 1px solid #d5d5d5;
 }
 
 @media screen and (max-height: 450px) {
@@ -17,11 +21,37 @@
 }
 
 .siteheading {
-    font-size: 26px;
     color: black;
     padding: 0px 0px 20px 10px;
 }
 
+.navheading {
+    padding: 0px 0px 10px 10px;
+    color: #696969;
+}
+
 .amenlist {
-    list-style: none;
+    padding-left: 20px;
+}
+
+.container {
+    padding: 4px 0px 4px 0px;
+    font-size: 18px;
+    color: #696969
+}
+
+.container:first-child:after {
+    content: '(external link)';
+    display: inline-block;
+    width: .7em;
+    height: .7em;
+    text-indent: .7em;
+    white-space: nowrap;
+    overflow: hidden;
+    background-image: url(/resources/watericon.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin-left: .1em;;
+
 }
