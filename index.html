@@ -29,49 +29,91 @@
       center: {lat: 49.2840, lng: -123.0919},
       zoom: 12
     });
+
+    var contentString = '<div id="content">'+
+    '<div id="siteNotice">'+
+    '</div>'+
+    '<h1 id="firstHeading" class="firstHeading">Uluru</h1>'+
+    '<div id="bodyContent">'+
+    '<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large ' +
+    'sandstone rock formation in the southern part of the '+
+    'Northern Territory, central Australia. It lies 335&#160;km (208&#160;mi) '+
+    'south west of the nearest large town, Alice Springs; 450&#160;km '+
+    '(280&#160;mi) by road. Kata Tjuta and Uluru are the two major '+
+    'features of the Uluru - Kata Tjuta National Park. Uluru is '+
+    'sacred to the Pitjantjatjara and Yankunytjatjara, the '+
+    'Aboriginal people of the area. It has many springs, waterholes, '+
+    'rock caves and ancient paintings. Uluru is listed as a World '+
+    'Heritage Site.</p>'+
+    '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">'+
+    'https://en.wikipedia.org/w/index.php?title=Uluru</a> '+
+    '(last visited June 22, 2009).</p>'+
+    '</div>'+
+    '</div>';
+
+    var infowindow = new google.maps.InfoWindow({
+      content: contentString
+    });
+
+    var image = 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png';
     var marker = new google.maps.Marker({
-    position: {lat: 49.2840, lng: -123.0919},
-    map: map,
-    title: 'Hello World!'
-  });
+      position: {lat: 49.2840, lng: -123.0919},
+      map: map,
+      title: 'Hello World!',
+      icon: image
+    });
+    marker.addListener('click', function() {
+      infowindow.open(map, marker);
+    });
   }
 
   if (navigator.geolocation) {
     console.log('Geolocation is supported!');
-    }
-    else {
-      console.log('Geolocation is not supported for this Browser/OS.');
+  }
+  else {
+    console.log('Geolocation is not supported for this Browser/OS.');
   }
 
 
   window.onload = function() {
-  var startPos;
-  var geoOptions = {
-    enableHighAccuracy: true
-  }
+    var startPos;
+    var geoOptions = {
+      enableHighAccuracy: true
+    }
 
-  var geoSuccess = function(position) {
-    startPos = position;
-    document.getElementById('startLat').innerHTML = startPos.coords.latitude;
-    document.getElementById('startLon').innerHTML = startPos.coords.longitude;
-    console.log("current location "+ startPos.coords.latitude+ startPos.coords.longitude)
-    var marker = new google.maps.Marker({
-    position: {lat: startPos.coords.latitude, lng: startPos.coords.longitude},
-    map: map,
-    title: 'Current Location'
-  });
-  };
-  var geoError = function(error) {
-    console.log('Error occurred. Error code: ' + error.code);
-    // error.code can be:
-    //   0: unknown error
-    //   1: permission denied
-    //   2: position unavailable (error response from location provider)
-    //   3: timed out
+    var geoSuccess = function(position) {
+      startPos = position;
+      document.getElementById('startLat').innerHTML = startPos.coords.latitude;
+      document.getElementById('startLon').innerHTML = startPos.coords.longitude;
+      console.log("current location "+ startPos.coords.latitude+ startPos.coords.longitude)
+      var marker = new google.maps.Marker({
+        position: {lat: startPos.coords.latitude, lng: startPos.coords.longitude},
+        map: map,
+        title: 'Current Location'
+      });
+    };
+    var geoError = function(error) {
+      console.log('Error occurred. Error code: ' + error.code);
+      // error.code can be:
+      //   0: unknown error
+      //   1: permission denied
+      //   2: position unavailable (error response from location provider)
+      //   3: timed out
+    };
+    var mapLocale = function(position) {
+      startPos = position;
+      document.getElementById('startLat').innerHTML = startPos.coords.latitude;
+      document.getElementById('startLon').innerHTML = startPos.coords.longitude;
+      console.log("current location "+ startPos.coords.latitude+ startPos.coords.longitude)
+      var marker = new google.maps.Marker({
+        position: {lat: startPos.coords.latitude, lng: startPos.coords.longitude},
+        map: map,
+        title: 'Current Location'
+      });
+    };
+    navigator.geolocation.getCurrentPosition(geoSuccess, geoError, geoOptions);
   };
 
-  navigator.geolocation.getCurrentPosition(geoSuccess, geoError, geoOptions);
-};
   </script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKnPQGv7Cf1UhviyDRkrSyFS8vyqIaaH0&callback=initMap"
   async defer></script>
