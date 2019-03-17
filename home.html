@@ -50,17 +50,18 @@
             </label>
         </div>
     <div class="HideButton">
-        <a href="#" class="previousRound" onclick="hide()" id="hideSide">&#8249;</a>
+        <a href="#" class="previousRound" onclick="hides()" id="hideSide">&#8249;</a>
     </div>
 </div>
 
 <script type="text/javascript">
-    function hide() {
-        document.getElementById("wizard").style.display = "none";
+    function hides() {
+        document.getElementById("wizard").style.display = 'none';
+        document.getElementsByClassName("left-button")[0].style.display = '';
     }
 </script>
 
-<div class="secondSideNav">
+<div class="left-button" id="temp">
     <div class="showButton">
         <a href="#" class="next round" onclick = "showButton()">&#8250;</a>
     </div>
@@ -68,7 +69,8 @@
 
 <script type="text/javascript">
     function showButton() {
-        document.getElementById("wizard").style.display = "";
+        document.getElementById("wizard").style.display = '';
+        document.getElementsByClassName("left-button")[0].style.display = 'none';
     }
 </script>
 
@@ -91,4 +93,10 @@
         async defer></script>
 <script src="LoadTheData.js"></script>
 </body>
+<script type="text/Javascript">
+    function showHide() {
+        document.getElementsByClassName("left-button")[0].style.display = 'none';
+    }
+    showHide();
+</script>
 </html>
