@@ -26,19 +26,25 @@
 </head>
 <body>
 
-<nav class="navbar navbar-inverse">
-    <div class="container-fluid">
-        <div class="navbar-header">
-            <a class="navbar-brand" href="#">Find A Way</a>
-        </div>
-    </div>
-</nav>
-
 
 /* I want to add a container to wrap around this whole map */
-<div style="width:100%; height:100%;">
-    <div id="map" style="width:100%;height:100%;"></div>
+<div class="container" style="width:100%; height:100%;">
+  <div class="row" style="width:100%; height:100%;">
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-lg-6" style="width:90%; height:100%;">
+      <div id="map"></div>
+    </div>
+  </div>
 </div>
+
+<!-- <div style="width:100%; height:100%;">
+    <div class="sidebar">
+      hello
+    </div>
+
+</div> -->
 <script>
     var map;
 
@@ -47,10 +53,12 @@
             center: {lat: -34.397, lng: 150.644},
             zoom: 8
         });
+
+        // setMarkers(map,locations);
     }
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKnPQGv7Cf1UhviyDRkrSyFS8vyqIaaH0&callback=initMap"
         async defer></script>
-
+<script src="LoadTheData.js"></script>
 </body>
 </html>
