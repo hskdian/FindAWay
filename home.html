@@ -7,6 +7,7 @@
     <link rel=“stylesheet” href=“https://use.fontawesome.com/releases/v5.7.2/css/all.css” integrity=“sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr” crossorigin=“anonymous”>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="home.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
     <style>
@@ -22,35 +23,55 @@
             margin: 0;
             padding: 0;
         }
-
     </style>
 
 </head>
 <body>
 
-<div class="sidenav">
-    <h1 class="siteheading">Find A Way</h1>
-    <h3 class="navheading">I want to find...</h3>
+<div class="sidenav" id="wizard">
+    <h1 class="siteheading">Find-A-Way</h1>
+    <p class="navtext">Hello! What do you need? Use the filters below to see the amenities and services near you.</p>
+    <h3 class="navheading">I need to find...</h3>
         <div class="amenlist">
             <label class="container">Drinking Water
-                <input type="checkbox" class="amenitem" checked="checked">
+                <input type="checkbox" class="amenitem" checked="checked" id="Water">
                 <span class="checkmark"></span>
             </label>
             <label class="container">Public Washrooms
-                <input type="checkbox" class="amenitem" checked="checked">
+                <input type="checkbox" class="amenitem" checked="checked" id="Washroom">
                 <span class="checkmark"></span>
             </label>
             <label class="container">Emergency Clinics
-                <input type="checkbox" class="amenitem" checked="checked">
+                <input type="checkbox" class="amenitem" checked="checked" id="Clinic">
                 <span class="checkmark"></span>
             </label>
             <label class="container">Shelters
-                <input type="checkbox" class="amenitem" checked="checked">
+                <input type="checkbox" class="amenitem" checked="checked" id="Shelter">
                 <span class="checkmark"></span>
             </label>
         </div>
-
+    <div class="HideButton">
+        <a href="#" class="previousRound" onclick="hide()" id="hideSide">&#8249;</a>
+    </div>
 </div>
+
+<script type="text/javascript">
+    function hide() {
+        document.getElementById("wizard").style.display = "none";
+    }
+</script>
+
+<div class="secondSideNav">
+    <div class="showButton">
+        <a href="#" class="next round" onclick = "showButton()">&#8250;</a>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function showButton() {
+        document.getElementById("wizard").style.display = "";
+    }
+</script>
 
 <div style="width:100%; height:100%;">
     <div id="map" style="width:100%;height:100%;"></div>
@@ -61,13 +82,10 @@
 
     function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
-            center: {lat: 49.2812675, lng: -123.0954008},
+            center: {lat: 49.2840, lng: -123.0919},
             zoom: 14
         });
         parseTheJson();
-        console.log(ListLocations)
-        console.log("before set markers")
-        // setMarkers(map,ListLocations);
     }
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKnPQGv7Cf1UhviyDRkrSyFS8vyqIaaH0&callback=initMap"

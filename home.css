@@ -1,17 +1,18 @@
 body {
 
     font-family: 'Lato', sans-serif;
+    background-color: #d5d5d5;
 }
 
 .sidenav {
+    margin: 0;
+    position: fixed;
     height: 100%;
+    overflow: auto;
     width: 300px;
     position: fixed;
     z-index: 1;
-    top: 0;
-    left: 0;
     background-color: #FFFFFF;
-    overflow-x: hidden;
     padding-top: 20px;
     border-right: 1px solid #d5d5d5;
 }
@@ -21,59 +22,104 @@ body {
 }
 
 .siteheading {
-    color: black;
-    padding: 0px 0px 20px 10px;
+    color: #696969;
+    padding: 0px 0px 20px 0px;
+    font-weight: bolder;
+    font-size: 35px;
+    border-bottom: 1px solid #e1e1e1;
+    margin-left: 10px;
+    margin-right: 12px;
+}
+
+.siteheading:after {
+    font-family: "Font Awesome 5 Free";
+    content: "\f5a0";
+    display: inline-block;
+    padding-left: 10px;
+    vertical-align: 0px;
+    color: #41d6c3;
+    font-size: 35px;
+}
+
+.navtext {
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    color: #696969!important;
+    font-size: 14px;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 
 .navheading {
-    padding: 0px 0px 10px 10px;
+    padding: 20px 0px 10px 10px;
     color: #696969;
+    font-weight: bolder;
+    font-size: 22px;
 }
 
 .amenlist {
-    padding-left: 20px;
+    padding-left: 20px
 }
 
+
 .container {
-    padding: 4px 0px 4px 0px;
     font-size: 18px;
-    color: #696969
-}
-
-.container:first-child:after {
-    content: '(external link)';
-    display: inline-block;
-    width: .7em;
-    height: .7em;
-    text-indent: .7em;
-    white-space: nowrap;
-    overflow: hidden;
-    background-image: url(/resources/watericon.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100%;
-    margin-left: .1em;;
-
-}
-
-.container {
-    padding: 4px 0px 4px 0px;
-    font-size: 18px;
-    color: #696969
-}
-
-.container {
+    color: #696969;
     display: block;
     position: relative;
     padding-left: 35px;
-    margin-bottom: 12px;
+    padding-bottom: 15px;
     cursor: pointer;
-    font-size: 22px;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    width: 100%;
 }
+
+.container:hover {
+    color: #41d6c3;
+
+}
+.container:first-child:before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f043";
+    display: inline-block;
+    padding-right: 7px;
+    vertical-align: middle;
+    color: #29abe1;
+    font-size: 21px;
+}
+
+.container:nth-of-type(2):before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f7bd";
+    display: inline-block;
+    padding-right: 7px;
+    vertical-align: middle;
+    color: #ec1e79;
+    font-size: 21px;
+}
+
+.container:nth-of-type(3):before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f067";
+    display: inline-block;
+    padding-right: 7px;
+    vertical-align: middle;
+    color: #ec1c23;
+    font-size: 21px;
+}
+.container:nth-of-type(4):before {
+    font-family: "Font Awesome 5 Free";
+    content: "\f236";
+    display: inline-block;
+    padding-right: 7px;
+    vertical-align: middle;
+    color: #006837;
+    font-size: 21px;
+}
+
 
 /* Hide the browser's default checkbox */
 .container input {
@@ -89,20 +135,17 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    height: 25px;
-    width: 25px;
-    background-color: #eee;
+    height: 22px;
+    width: 22px;
+    background-color: white;
+    border: 1px solid #ccc;
 }
 
 /* On mouse-over, add a grey background color */
 .container:hover input ~ .checkmark {
-    background-color: #ccc;
+    background-color: whitesmoke;
 }
 
-/* When the checkbox is checked, add a blue background */
-.container input:checked ~ .checkmark {
-    background-color: #2196F3;
-}
 
 /* Create the checkmark/indicator (hidden when not checked) */
 .checkmark:after {
@@ -118,13 +161,61 @@ body {
 
 /* Style the checkmark/indicator */
 .container .checkmark:after {
-    left: 9px;
-    top: 5px;
-    width: 5px;
-    height: 10px;
-    border: solid white;
+    left: 6px;
+    top: 2px;
+    width: 8px;
+    height: 15px;
+    border: solid #41d6c3;
     border-width: 0 3px 3px 0;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
+}
+
+.secondSideNav{
+    z-index: 1;
+    padding-top: 20%;
+    overflow-x: hidden;
+    width: 50px;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+.sidenav {
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #FFFFFF;
+    overflow-x: hidden;
+    padding-top: 20px;
+    border-right: 1px solid #d5d5d5;
+}
+
+.swHide{
+    display: none;
+    vertical-align: top;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.previousRound {
+    background-color: #f1f1f1;
+    color: black;
+}
+
+.next {
+    background-color: #f1f1f1;
+    color: white;
 }
