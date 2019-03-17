@@ -78,7 +78,7 @@
 <div style="width:100%; height:100%;">
     <div id="map" style="width:100%;height:100%;"></div>
 </div>
-<script>
+<!-- <script>
     var map;
     var ListLocations = [];
 
@@ -89,6 +89,81 @@
         });
         parseTheJson();
     }
+</script> -->
+<script>
+    var map;
+    var ListLocations = [];
+    var markers = [];
+
+    function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+            center: {lat: 49.2840, lng: -123.0919},
+            zoom: 14
+        });
+        parseTheJson(markers);
+    }
+
+    function showMarkers(listMarkers, typeMarker) {
+        for (var i = 0; i < listMarkers.length; i ++) {
+            if (listMarkers[i].AMENITY_TYPE === typeMarker) {
+                // listMarkers[i].show();
+                listMarkers[i].setVisible(true);
+                console.log("marker set to true");
+            }
+        }
+    }
+
+    function hideMarkers(listMarkers, typeMarker) {
+        for (var i = 0; i < listMarkers.length; i++) {
+            if (listMarkers[i].AMENITY_TYPE === typeMarker) {
+                // listMarkers[i].hide();
+                listMarkers[i].setVisible(false);
+                console.log("marker set to false");
+            }
+        }
+    }
+
+    // var ListLocations = []; // stub, replace with real collection of all markers
+    var waterBox = document.querySelector("#Water"); // select the check box
+    waterBox.addEventListener('click', function () {
+        console.log("waterBox is clicked!");
+        if (waterBox.checked) {
+            showMarkers(markers, "WaterFountain");
+        } else {
+            hideMarkers(markers, "WaterFountain");
+        }
+    });
+
+    var washRoomBox = document.querySelector("#Washroom");
+    washRoomBox.addEventListener('click', function () {
+        console.log("washRoomBox is clicked!");
+        if (washRoomBox.checked) {
+            showMarkers(markers, "PublicWashroom");
+        } else {
+            hideMarkers(markers, "PublicWashroom");
+        }
+    });
+
+    var ERBox = document.querySelector("#Clinic");
+    ERBox.addEventListener('click', function () {
+        console.log("ERBox is clicked!");
+        if (ERBox.checked) {
+            showMarkers(markers, "InjectionSite");
+        } else {
+            hideMarkers(markers, "InjectionSite");
+        }
+    });
+
+    var shelterBox = document.querySelector("#Shelter");
+    shelterBox.addEventListener('click', function () {
+        console.log("shelterBox is clicked!");
+        if (shelterBox.checked) {
+            showMarkers(markers, "Shelter");
+        } else {
+            hideMarkers(markers, "Shelter");
+        }
+    });
+
 </script>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDKnPQGv7Cf1UhviyDRkrSyFS8vyqIaaH0&callback=initMap"
         async defer></script>

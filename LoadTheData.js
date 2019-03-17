@@ -39,7 +39,7 @@ window.onload = function() {
   navigator.geolocation.getCurrentPosition(geoSuccess, geoError, geoOptions);
 };
 
-function parseTheJson () {
+function parseTheJson (markers) {
   $.getJSON("Resources/dataset.json", function(arr) {
     // console.log(arr);
 
@@ -76,8 +76,10 @@ function parseTheJson () {
         position: {lat: parseFloat(location.LATITUDE), lng: parseFloat(location.LONGITUDE)},
         map: map,
         icon: image,
-        title: "marker"+i
+        title: "marker"+i,
+        AMENITY_TYPE: location.AMENITY_TYPE
       });
+      markers.push(marker);
     }
   });
 }
