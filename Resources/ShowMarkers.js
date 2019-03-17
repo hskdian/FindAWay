@@ -16,8 +16,9 @@ function hideMarkers(listMarkers, typeMarker) {
 }
 
 var listMarkers = []; // stub, replace with real collection of all markers
-var waterBox = document.querySelector(); // select the check box
-waterBox.addEventListender('click', function () {
+var waterBox = document.querySelector("#Water"); // select the check box
+waterBox.addEventListener('click', function () {
+    console.log("waterBox is clicked!");
     if (waterBox.checked) {
         showMarkers(listMarkers, "WaterFountain");
     } else {
@@ -25,8 +26,9 @@ waterBox.addEventListender('click', function () {
     }
 });
 
-var washRoomBox = document.querySelector();
-washRoomBox.addEventListender('click', function () {
+var washRoomBox = document.querySelector("#Washroom");
+washRoomBox.addEventListener('click', function () {
+    console.log("washRoomBox is clicked!");
     if (washRoomBox.checked) {
         showMarkers(listMarkers, "PublicWashroom");
     } else {
@@ -34,8 +36,9 @@ washRoomBox.addEventListender('click', function () {
     }
 });
 
-var ERBox = document.querySelector();
-ERBox.addEventListender('click', function () {
+var ERBox = document.querySelector("#Clinic");
+ERBox.addEventListener('click', function () {
+    console.log("ERBox is clicked!");
     if (ERBox.checked) {
         showMarkers(listMarkers, "InjectionSite");
     } else {
@@ -43,8 +46,9 @@ ERBox.addEventListender('click', function () {
     }
 });
 
-var shelterBox = document.querySelector();
-shelterBox.addEventListender('click', function () {
+var shelterBox = document.querySelector("#Shelter");
+shelterBox.addEventListener('click', function () {
+    console.log("shelterBox is clicked!");
     if (shelterBox.checked) {
         showMarkers(listMarkers, "Shelter");
     } else {
