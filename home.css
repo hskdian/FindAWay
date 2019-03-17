@@ -103,7 +103,7 @@ body {
 
 .container:nth-of-type(3):before {
     font-family: "Font Awesome 5 Free";
-    content: "\f479";
+    content: "\f067";
     display: inline-block;
     padding-right: 7px;
     vertical-align: middle;
