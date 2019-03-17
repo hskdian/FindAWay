@@ -27,7 +27,7 @@
 </head>
 <body>
 
-<div class="sidenav">
+<div class="sidenav" id="wizard">
     <h1 class="siteheading">Find A Way</h1>
     <p class="navtext">Hello! What do you need? Use the filters below to see the amenities and services near you.</p>
     <h3 class="navheading">I need to find...</h3>
@@ -49,8 +49,28 @@
                 <span class="checkmark"></span>
             </label>
         </div>
-
+    <div class="HideButton">
+        <a href="#" class="previousRound" onclick="hide()" id="hideSide">&#8249;</a>
+    </div>
 </div>
+
+<script type="text/javascript">
+    function hide() {
+        document.getElementById("wizard").style.display = "none";
+    }
+</script>
+
+<div class="secondSideNav">
+    <div class="showButton">
+        <a href="#" class="next round" onclick = "showButton()">&#8250;</a>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function showButton() {
+        document.getElementById("wizard").style.display = "";
+    }
+</script>
 
 <div style="width:100%; height:100%;">
     <div id="map" style="width:100%;height:100%;"></div>
