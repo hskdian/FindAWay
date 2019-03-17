@@ -13,7 +13,7 @@ window.onload = function() {
       // position: {lat: startPos.coords.latitude, lng: startPos.coords.longitude},
       position: {lat: 49.2812675, lng: -123.0954008},
       map: map,
-      icon: "http://maps.google.com/mapfiles/ms/icons/green-dot.png",
+      icon: "Resources/pointersmall.png",
       title: 'Current Location'
     });
   };
