@@ -10,8 +10,10 @@ window.onload = function() {
     // document.getElementById('startLon').innerHTML = startPos.coords.longitude;
     console.log("current location "+ startPos.coords.latitude+ startPos.coords.longitude)
     var marker = new google.maps.Marker({
-      position: {lat: startPos.coords.latitude, lng: startPos.coords.longitude},
+      // position: {lat: startPos.coords.latitude, lng: startPos.coords.longitude},
+      position: {lat: 49.2812675, lng: -123.0954008},
       map: map,
+      icon: "http://maps.google.com/mapfiles/ms/icons/green-dot.png",
       title: 'Current Location'
     });
   };
@@ -37,30 +39,59 @@ window.onload = function() {
   navigator.geolocation.getCurrentPosition(geoSuccess, geoError, geoOptions);
 };
 
-// parseTheJson();
-var ListLocations = [];
-
 function parseTheJson () {
-  console.log("hi")
   $.getJSON("Resources/dataset.json", function(arr) {
     // console.log(arr);
 
     for (var i = 0; i < arr.length; i++) {
       ListLocations.push(new Entry(arr[i]));
     }
-    // for (var i = 0; i < ListLocations.length; i++) {
-    //   var location = ListLocations[i];
-    //   var marker = new google.maps.Marker({
-    //     position: {lat: location.LATITUDE, lng: location.LONGITUDE}
-    //   });
-    // }
-    console.log(ListLocations)
     return ListLocations
+  }).done(function() {
+    console.log( "We done!" );
+    for (var i = 0; i < ListLocations.length; i++) {
+      var image;
+      var location = ListLocations[i];
+      switch(location.AMENITY_TYPE) {
+        case "WaterFountain":
+          image = 'Resources/watericon.png';
+          console.log(image.url);
+          break;
+        case "PublicWashroom":
+        // code block
+          image = 'Resources/washroomicon.png';
+          break;
+        case "InjectionSite":
+          // code block
+          image = 'Resources/emergencyicon.png';
+          break;
+        case "Shelter":
+          // code block
+          image = 'Resources/sheltericon.png';
+          break;
+        default:
+        // code block
+      }
+      var marker = new google.maps.Marker({
+        position: {lat: parseFloat(location.LATITUDE), lng: parseFloat(location.LONGITUDE)},
+        map: map,
+        icon: image,
+        title: "marker"+i
+      });
+    }
   });
 }
 
-function setMarkers(){
-  console.log(ListLocations);
+function setMarkers(map,locations){
+  console.log("hi set marker");
+  console.log(locations.length);
+  for (var i = 0; i < ListLocations.length; i++) {
+    console.log(i);
+    var location = ListLocations[i];
+    var marker = new google.maps.Marker({
+      position: {lat: parseFloat(location.LATITUDE), lng: parseFloat(location.LONGITUDE)},
+    });
+  }
 }
 
 function Entry (obj) {
